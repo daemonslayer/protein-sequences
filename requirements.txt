@@ -1,6 +1,4 @@
-pytorch
-torchvision
-tensorflow
+pyyaml
 numpy
-cv2
 matplotlib
+pytorch
